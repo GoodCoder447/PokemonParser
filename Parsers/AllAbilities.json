@@ -1,0 +1,768 @@
+{
+	"Abilities":[
+	{
+		"Name": "Adaptability",
+		"Description": "Adaptability increases the effectiveness of STAB moves from the usual 1.5× to 2×."
+	},
+	{
+		"Name": "Aerilate",
+		"Description": "Aerilate causes all Normal-type attacking moves used by the ability-bearer to become Flying-type."
+	},
+	{
+		"Name": "Aftermath",
+		"Description": "If an attacker faints a Pokémon with Aftermath using a contact move, the attacker will lose 1⁄4 of their maximum HP."
+	},
+	{
+		"Name": "Air Lock",
+		"Description": "Air Lock suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on."
+	},
+	{
+		"Name": "Analytic",
+		"Description": "Boosts move power when the Pokémon moves last."
+	},
+	{
+		"Name": "Anger Point",
+		"Description": "Anger Point raises the ability-bearer's Attack to its maximum level - +6 stages or 4× usual power - when a move targeting it receives a critical hit."
+	},
+	{
+		"Name": "Anticipation",
+		"Description": "A Pokémon with Anticipation will shudder upon entering battle, if an opponent has a move that is super-effective against it, or a One-Hit-KO move (Fissure, Horn Drill, Guillotine or Sheer Cold). It only activates when the ability-bearer switches in, not when an opponent switches in."
+	},
+	{
+		"Name": "Arena Trap",
+		"Description": "Arena Trap prevents opponents from fleeing or switching out. Raised Pokémon are not affected."
+	},
+	{
+		"Name": "Aroma Veil",
+		"Description": "Protects allies from attacks that limit their move choices."
+	},
+	{
+		"Name": "Aura Break",
+		"Description": "Aura Break cancels the effects of the abilities Fairy Aura and Dark Aura."
+	},
+	{
+		"Name": "Bad Dreams",
+		"Description": "Bad Dreams causes all sleeping opponents to lose 1⁄8 of their maximum HP at the end of each turn."
+	},
+	{
+		"Name": "Battle Armor",
+		"Description": "Battle Armor prevents the Pokémon from receiving a critical hit."
+	},
+	{
+		"Name": "Big Pecks",
+		"Description": "Big Pecks prevents the ability-bearer's Defense stat from being lowered, for example via Tail Whip."
+	},
+	{
+		"Name": "Blaze",
+		"Description": "Blaze increases the power of Fire-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch)."
+	},
+	{
+		"Name": "Bulletproof",
+		"Description": "Bulletproof makes the ability-bearer immune to ball and bomb moves."
+	},
+	{
+		"Name": "Cheek Pouch",
+		"Description": "Cheek Pouch restores the bearer's HP when a Berry is consumed, on top of the berry's usual effects."
+	},
+	{
+		"Name": "Chlorophyll",
+		"Description": "Chlorophyll doubles the ability-bearer's Speed during bright sunshine."
+	},
+	{
+		"Name": "Clear Body",
+		"Description": "Prevents other Pokémon from lowering its stats."
+	},
+	{
+		"Name": "Cloud Nine",
+		"Description": "Cloud Nine suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on."
+	},
+	{
+		"Name": "Color Change",
+		"Description": "Color Change changes the ability-bearer's type, when hit by a damage dealing move, to the type of that move. For example being hit by X Scissor will change the Pokemon to Bug-type. Dual-type Pokemon change to single-types."
+	},
+	{
+		"Name": "Competitive",
+		"Description": "Competitive raises the ability-bearer's Special Attack when a stat-lowering move is targeted at it."
+	},
+	{
+		"Name": "Compound Eyes",
+		"Description": "Compound Eyes raises the ability-bearer's accuracy by 30%."
+	},
+	{
+		"Name": "Contrary",
+		"Description": "Makes stat changes have an opposite effect."
+	},
+	{
+		"Name": "Cursed Body",
+		"Description": "May disable a move used on the Pokémon."
+	},
+	{
+		"Name": "Cute Charm",
+		"Description": "If a Pokémon with Cute Charm is hit by a move that makes contact, there is a 30% chance the attacker will become infatuated. It will not infatuate Pokémon of the same gender, genderless Pokémon, nor those with the ability Oblivious."
+	},
+	{
+		"Name": "Damp",
+		"Description": "Damp prevents all Pokémon on the field from using the moves Selfdestruct and Explosion. It also prevents damage (to the Damp Pokémon only) from the ability Aftermath."
+	},
+	{
+		"Name": "Dark Aura",
+		"Description": "Dark Aura raises the power of Dark type moves for all Pokémon on the field (not just the ability bearer)."
+	},
+	{
+		"Name": "Defeatist",
+		"Description": "When the HP of a Pokémon with Defeatist falls below 50%, its Attack and Special Attack stats are halved."
+	},
+	{
+		"Name": "Defiant",
+		"Description": "When its stats are lowered its Attack increases."
+	},
+	{
+		"Name": "Delta Stream",
+		"Description": "Delta Stream creates strong winds when the ability is activated (by Rayquaza Mega-Evolving)."
+	},
+	{
+		"Name": "Desolate Land",
+		"Description": "Desolate Land creates extremely harsh sunlight when the ability is activated (by Groudon reverting to its Primal form)."
+	},
+	{
+		"Name": "Download",
+		"Description": "Download raises either the bearer's Attack or Special Attack by one stage when switching into battle, base on the opponent's defenses."
+	},
+	{
+		"Name": "Drizzle",
+		"Description": "Drizzle creates a rain shower when the ability-bearer enters battle. As opposed to the move Rain Dance it lasts until the end of the battle, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+	},
+	{
+		"Name": "Drought",
+		"Description": "Drought creates harsh sunlight when the ability-bearer enters battle. As opposed to the move Sunny Day it lasts until the end of the battle, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+	},
+	{
+		"Name": "Dry Skin",
+		"Description": "Dry Skin causes several effects:"
+	},
+	{
+		"Name": "Early Bird",
+		"Description": "The Pokémon awakens quickly from sleep."
+	},
+	{
+		"Name": "Effect Spore",
+		"Description": "Contact may poison or cause paralysis or sleep."
+	},
+	{
+		"Name": "Fairy Aura",
+		"Description": "Fairy Aura raises the power of Fairy type moves for all Pokémon on the field (not just the ability bearer)."
+	},
+	{
+		"Name": "Filter",
+		"Description": "Reduces damage from supereffective attacks."
+	},
+	{
+		"Name": "Flame Body",
+		"Description": "If a Pokémon with Flame Body is hit by a move that makes contact, there is a 30% chance the attacker will become burned."
+	},
+	{
+		"Name": "Flare Boost",
+		"Description": "Powers up special attacks when burned."
+	},
+	{
+		"Name": "Flash Fire",
+		"Description": "When a Pokémon with Flash Fire is hit by a Fire-type move, it does not deal damage but instead raises the power of the bearer's Fire-type moves by 50%. Subsequent hits do not raise the power even more, but the effect remains while the ability-bearer is in battle."
+	},
+	{
+		"Name": "Flower Gift",
+		"Description": "Flower Gift raises the Attack and Special Defense of all party Pokémon during harsh sunlight."
+	},
+	{
+		"Name": "Flower Veil",
+		"Description": "Flower Veil prevents ally Grass-type Pokémon's stats from being lowered, in double and triple battles."
+	},
+	{
+		"Name": "Forecast",
+		"Description": "Castform transforms with the weather."
+	},
+	{
+		"Name": "Forewarn",
+		"Description": "Determines what moves a foe has."
+	},
+	{
+		"Name": "Friend Guard",
+		"Description": "Reduces damage done to allies."
+	},
+	{
+		"Name": "Frisk",
+		"Description": "The Pokémon can check a foe's held item."
+	},
+	{
+		"Name": "Fur Coat",
+		"Description": "Fur Coat reduces damage taken from physical attacks by 50%."
+	},
+	{
+		"Name": "Gale Wings",
+		"Description": "Gives priority to Flying-type moves."
+	},
+	{
+		"Name": "Gluttony",
+		"Description": "A Pokémon with Gluttony will use a pinch berry when its HP drops to 50%, rather than the usual 25%."
+	},
+	{
+		"Name": "Gooey",
+		"Description": "Contact with the Pokémon lowers the attacker's Speed stat."
+	},
+	{
+		"Name": "Grass Pelt",
+		"Description": "Boosts the Defense stat in Grassy Terrain."
+	},
+	{
+		"Name": "Guts",
+		"Description": "Guts raises the ability-bearer's Attack by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If burnt, the Pokemon does not suffer the usual drop in Attack."
+	},
+	{
+		"Name": "Harvest",
+		"Description": "May create another Berry after one is used."
+	},
+	{
+		"Name": "Healer",
+		"Description": "May heal an ally's status conditions."
+	},
+	{
+		"Name": "Heatproof",
+		"Description": "Heatproof reduces the damage taken from Fire-type moves by 50%. It also halves the damage from a burn, from 1⁄8 to 1⁄16 of the Pokemon's maximum HP."
+	},
+	{
+		"Name": "Heavy Metal",
+		"Description": "Heavy Metal doubles the Pokémon's weight in battle. Increasing weight affects these moves:"
+	},
+	{
+		"Name": "Honey Gather",
+		"Description": "Honey Gather has no effect in battle."
+	},
+	{
+		"Name": "Huge Power",
+		"Description": "Raises the Pokémon's Attack stat."
+	},
+	{
+		"Name": "Hustle",
+		"Description": "Hustle increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%."
+	},
+	{
+		"Name": "Hydration",
+		"Description": "A Pokémon with Hydration will cure itself of any status conditions during rain, at the end of each turn. This includes self-inflicted conditions such as from using Rest."
+	},
+	{
+		"Name": "Hyper Cutter",
+		"Description": "Hyper Cutter prevents the bearer's Attack stat from being lowered by other Pokémon, through moves such as Growl or abilities such as Intimidate."
+	},
+	{
+		"Name": "Ice Body",
+		"Description": "A Pokémon with Ice Body will recover 1⁄16 of its maximum HP during hail, after each turn. It also grants immunity to the hailstorm damage, if not already immune."
+	},
+	{
+		"Name": "Illuminate",
+		"Description": "Illuminate has no effect in battle."
+	},
+	{
+		"Name": "Illusion",
+		"Description": "When a Pokémon with the Illusion ability switches into battle, it takes the form of the Pokémon in last place (6th) of the player's party. Illusion will not activate if the Pokémon in last place is the same species or is fainted."
+	},
+	{
+		"Name": "Immunity",
+		"Description": "Prevents the Pokémon from getting poisoned."
+	},
+	{
+		"Name": "Imposter",
+		"Description": "It transforms itself into the Pokémon it is facing."
+	},
+	{
+		"Name": "Infiltrator",
+		"Description": "Infiltrator ignores the effects of Reflect, Light Screen and Safeguard. In other words, if the opponent has used Safeguard, Toxic would still badly poison them."
+	},
+	{
+		"Name": "Inner Focus",
+		"Description": "Inner Focus prevents the Pokémon from flinching, for example when attacked by a move like Headbutt."
+	},
+	{
+		"Name": "Insomnia",
+		"Description": "Insomnia prevents the ability-bearer from falling asleep, both from moves by other Pokémon like Sing, and self-inflicted sleep like Rest."
+	},
+	{
+		"Name": "Intimidate",
+		"Description": "Intimidate lower's the Attack of all opponents by one stage when the ability-bearer switches in (including the start of a battle)."
+	},
+	{
+		"Name": "Iron Barbs",
+		"Description": "When a Pokémon with Iron Barbs is hit by a move that makes contact, the attacker receives damage equal to 1⁄8 of their maximum HP."
+	},
+	{
+		"Name": "Iron Fist",
+		"Description": "Iron Fist boosts the power of punching moves by 20%. The moves affected are as follows, with their normal and boosted power:"
+	},
+	{
+		"Name": "Justified",
+		"Description": "Justified raises the ability-bearer's Attack by one stage when hit by a damaging Dark-type move."
+	},
+	{
+		"Name": "Keen Eye",
+		"Description": "Keen Eye prevents the Pokémon from losing accuracy, for example from moves like Sand-Attack."
+	},
+	{
+		"Name": "Klutz",
+		"Description": "The Pokémon can't use any held items."
+	},
+	{
+		"Name": "Leaf Guard",
+		"Description": "Leaf Guard prevents the bearer from succumbing to major status ailments (sleep, burns, poisoning, paralysis or freezing) during sunny weather."
+	},
+	{
+		"Name": "Levitate",
+		"Description": "Levitate causes the Pokémon to be raised (like Flying-type Pokémon)."
+	},
+	{
+		"Name": "Light Metal",
+		"Description": "Light Metal halves the Pokémon's weight in battle. Decreasing weight affects these moves:"
+	},
+	{
+		"Name": "Lightning Rod",
+		"Description": "Lightning Rod forces all single-target Electric-type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. This includes the status move Thunder Wave. The ability is most useful in double/triple battles."
+	},
+	{
+		"Name": "Limber",
+		"Description": "The Pokémon is protected from paralysis."
+	},
+	{
+		"Name": "Liquid Ooze",
+		"Description": "Damages attackers using any draining move."
+	},
+	{
+		"Name": "Magic Bounce",
+		"Description": "Reflects status- changing moves."
+	},
+	{
+		"Name": "Magic Guard",
+		"Description": "The Pokémon only takes damage from attacks."
+	},
+	{
+		"Name": "Magician",
+		"Description": "The Pokémon steals the held item of a Pokémon it hits with a move."
+	},
+	{
+		"Name": "Magma Armor",
+		"Description": "Magma Armor prevents the Pokémon from becoming frozen, for example from moves like Blizzard."
+	},
+	{
+		"Name": "Magnet Pull",
+		"Description": "Magnet Pull prevents Steel type Pokémon from switching out of battle or fleeing."
+	},
+	{
+		"Name": "Marvel Scale",
+		"Description": "Marvel Scale raises the ability-bearer's Defense by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep)."
+	},
+	{
+		"Name": "Mega Launcher",
+		"Description": "Mega Launcher increases the power of all aura and pulse moves by 50%."
+	},
+	{
+		"Name": "Minus",
+		"Description": "Ups Sp. Atk if another Pokémon has Plus or Minus."
+	},
+	{
+		"Name": "Mold Breaker",
+		"Description": "Mold Breaker prevents a target's ability from affecting moves that the Mold Breaker Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves."
+	},
+	{
+		"Name": "Moody",
+		"Description": "Raises one stat and lowers another."
+	},
+	{
+		"Name": "Motor Drive",
+		"Description": "Raises Speed if hit by an Electric-type move."
+	},
+	{
+		"Name": "Moxie",
+		"Description": "Moxie increases the user's Attack one stage upon fainting an opponent."
+	},
+	{
+		"Name": "Multiscale",
+		"Description": "Reduces damage when HP is full."
+	},
+	{
+		"Name": "Multitype",
+		"Description": "Multitype changes the ability-bearer's type if it is holding one of the Type Plate items. Moves of the corresponding type receive STAB."
+	},
+	{
+		"Name": "Mummy",
+		"Description": "Contact with this Pokémon spreads this Ability."
+	},
+	{
+		"Name": "Natural Cure",
+		"Description": "All status problems heal when it switches out."
+	},
+	{
+		"Name": "No Guard",
+		"Description": "No Guard ensures that all attacks used by, and targeted at, the ability-bearer hit without fail."
+	},
+	{
+		"Name": "Normalize",
+		"Description": "All the Pokémon's moves become the Normal type."
+	},
+	{
+		"Name": "Oblivious",
+		"Description": "Oblivious makes the Pokémon immune to gender-based moves and abilities, specifically Attract, Captivate and Cute Charm."
+	},
+	{
+		"Name": "Overcoat",
+		"Description": "Overcoat makes the Pokémon immune to residual damage from weather conditions (specifically Hail and Sandstorm)."
+	},
+	{
+		"Name": "Overgrow",
+		"Description": "Overgrow increases the power of Grass-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch)."
+	},
+	{
+		"Name": "Own Tempo",
+		"Description": "Prevents the Pokémon from becoming confused."
+	},
+	{
+		"Name": "Parental Bond",
+		"Description": "Parental Bond allows the ability-bearer to attack twice. The second attack hits with half the power, so in effect Parental Bond is equivalent to a 50% boost to all attacks."
+	},
+	{
+		"Name": "Pickpocket",
+		"Description": "Steals an item when hit by another Pokémon."
+	},
+	{
+		"Name": "Pickup",
+		"Description": "When another Pokémon on the field uses a single-use held item, a Pokémon with Pickup will obtain the used item (if they are not already holding anything) and it can be used again."
+	},
+	{
+		"Name": "Pixilate",
+		"Description": "Pixilate causes all Normal-type attacking moves used by the ability-bearer to become Fairy-type."
+	},
+	{
+		"Name": "Plus",
+		"Description": "Ups Sp. Atk if another Pokémon has Plus or Minus."
+	},
+	{
+		"Name": "Poison Heal",
+		"Description": "Restores HP if the Pokémon is poisoned."
+	},
+	{
+		"Name": "Poison Point",
+		"Description": "Contact with the Pokémon may poison the attacker."
+	},
+	{
+		"Name": "Poison Touch",
+		"Description": "May poison targets when a Pokémon makes contact."
+	},
+	{
+		"Name": "Prankster",
+		"Description": "Prankster increases the priority of status moves by +1."
+	},
+	{
+		"Name": "Pressure",
+		"Description": "Pressure makes any attack targeted at the ability-bearer - regardless of whether it hits - use 2 PP instead of 1."
+	},
+	{
+		"Name": "Primordial Sea",
+		"Description": "Primordial Sea creates heavy rain when the ability is activated (by Kyogre reverting to its Primal form)."
+	},
+	{
+		"Name": "Protean",
+		"Description": "Protean changes the ability-bearer's type to that of its previously used attack."
+	},
+	{
+		"Name": "Pure Power",
+		"Description": "Raises the Pokémon's Attack stat."
+	},
+	{
+		"Name": "Quick Feet",
+		"Description": "Quick Feet raises the ability-bearer's Speed by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If paralyzed, the Pokémon does not suffer the usual drop in Speed."
+	},
+	{
+		"Name": "Rain Dish",
+		"Description": "A Pokémon with Rain Dish will recover 1⁄16 of its maximum HP during rain, after each turn."
+	},
+	{
+		"Name": "Rattled",
+		"Description": "When a Pokémon with Rattled is hit by a Bug, Ghost or Dark type move, its Speed is raised one stage (up to the usual maximum of +6 stages)."
+	},
+	{
+		"Name": "Reckless",
+		"Description": "Powers up moves that have recoil damage."
+	},
+	{
+		"Name": "Refrigerate",
+		"Description": "Refrigerate causes all Normal-type attacking moves used by the ability-bearer to become Ice-type."
+	},
+	{
+		"Name": "Regenerator",
+		"Description": "A Pokémon with Regenerator restores 1⁄3 of its maximum HP when switching out."
+	},
+	{
+		"Name": "Rivalry",
+		"Description": "Deals more damage to a Pokémon of same gender."
+	},
+	{
+		"Name": "Rock Head",
+		"Description": "Protects the Pokémon from recoil damage."
+	},
+	{
+		"Name": "Rough Skin",
+		"Description": "When a Pokémon with Rough Skin is hit by a move that makes contact, the attacker receives damage equal to 1⁄8 of their maximum HP."
+	},
+	{
+		"Name": "Run Away",
+		"Description": "Run Away allows the bearer to flee a battle with a wild Pokémon without fail, even if the opposing Pokémon has used a move like Mean Look or Bind, or has an ability such as Arena Trap."
+	},
+	{
+		"Name": "Sand Force",
+		"Description": "Sand Force raises the power of Ground, Rock and Steel type moves by 30% during a sandstorm."
+	},
+	{
+		"Name": "Sand Rush",
+		"Description": "Sand Rush doubles the ability-bearer's Speed during a sandstorm."
+	},
+	{
+		"Name": "Sand Stream",
+		"Description": "Sand Stream creates a sandstorm when the ability-bearer enters battle. As opposed to the move Sandstorm it lasts until the end of the battle, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+	},
+	{
+		"Name": "Sand Veil",
+		"Description": "Sand Veil raises the ability-bearer's evasion by 20% in a sandstorm. It also gives immunity to sandstorm damage (if they are not already protected by being Ground/Rock/Steel type)."
+	},
+	{
+		"Name": "Sap Sipper",
+		"Description": "Boosts Attack when hit by a Grass-type move."
+	},
+	{
+		"Name": "Scrappy",
+		"Description": "Enables moves to hit Ghost-type Pokémon."
+	},
+	{
+		"Name": "Serene Grace",
+		"Description": "Serene Grace doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching."
+	},
+	{
+		"Name": "Shadow Tag",
+		"Description": "Prevents the foe from escaping."
+	},
+	{
+		"Name": "Shed Skin",
+		"Description": "The Pokémon may heal its own status problems."
+	},
+	{
+		"Name": "Sheer Force",
+		"Description": "Sheer Force increases the power of moves that have beneficial secondary effects by 30%, but removes those additional effects."
+	},
+	{
+		"Name": "Shell Armor",
+		"Description": "Shell Armor prevents the Pokémon from receiving a critical hit."
+	},
+	{
+		"Name": "Shield Dust",
+		"Description": "Blocks the added effects of attacks taken."
+	},
+	{
+		"Name": "Simple",
+		"Description": "The Simple ability doubles the number of stages of all stat changes. Stats can be raised to a maximum of +6 stages each, or lowered to a minimum of -6 stages each."
+	},
+	{
+		"Name": "Skill Link",
+		"Description": "Skill Link causes multi-strike moves to always hit their maximum number of times. The moves affected are listed below; note that moves such as Double Kick that always strike the same number of times are not affected."
+	},
+	{
+		"Name": "Slow Start",
+		"Description": "Temporarily halves Attack and Speed."
+	},
+	{
+		"Name": "Sniper",
+		"Description": "Sniper increases the power of critical hits by 1.5×. This means a critical hit will deal 2.25× normal damage instead of 1.5×."
+	},
+	{
+		"Name": "Snow Cloak",
+		"Description": "Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type)."
+	},
+	{
+		"Name": "Snow Warning",
+		"Description": "Snow Warning creates a hailstorm when the ability-bearer enters battle. As opposed to the move Hail it lasts until the end of the battle, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+	},
+	{
+		"Name": "Solar Power",
+		"Description": "During harsh sunlight, Solar Power raises the ability-bearer's Special Attack by 50%, but it also loses 1⁄8 of its maximum HP after each turn."
+	},
+	{
+		"Name": "Solid Rock",
+		"Description": "Reduces damage from supereffective attacks."
+	},
+	{
+		"Name": "Soundproof",
+		"Description": "Soundproof grants the ability-bearer immunity to all sound-based moves, preventing all damage and effects. The sound-based moves are:"
+	},
+	{
+		"Name": "Speed Boost",
+		"Description": "Its Speed stat is gradually boosted."
+	},
+	{
+		"Name": "Stall",
+		"Description": "The Pokémon moves after all other Pokémon do."
+	},
+	{
+		"Name": "Stance Change",
+		"Description": "Stance Change is exclusive to Aegislash. When using a damage-dealing move, Aegislash switches to its Blade Forme. When using the move King's Shield, Aegislash switches to its Shield Forme."
+	},
+	{
+		"Name": "Static",
+		"Description": "If a Pokémon with Static is hit by a move making contact, there is a 30% chance the foe will become paralyzed."
+	},
+	{
+		"Name": "Steadfast",
+		"Description": "Raises Speed each time the Pokémon flinches."
+	},
+	{
+		"Name": "Stench",
+		"Description": "A Pokémon with Stench has a 10% chance of causing the opponent to flinch when hit by a damaging move (provided the ability-bearer strikes first as usual)."
+	},
+	{
+		"Name": "Sticky Hold",
+		"Description": "Sticky Hold prevents held items from being taken or switched."
+	},
+	{
+		"Name": "Storm Drain",
+		"Description": "Storm Drain forces all single-target Water-type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. The ability is most useful in double/triple battles."
+	},
+	{
+		"Name": "Strong Jaw",
+		"Description": "Strong Jaw increases the power of all biting moves by 50%."
+	},
+	{
+		"Name": "Sturdy",
+		"Description": "Sturdy allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves (Fissure, Horn Drill, Guillotine or Sheer Cold)."
+	},
+	{
+		"Name": "Suction Cups",
+		"Description": "Suction Cups prevents opponents forcing the ability-holder to switch out or scaring it into fleeing via moves such as Roar or Whirlwind."
+	},
+	{
+		"Name": "Super Luck",
+		"Description": "Super Luck raises the ability-bearer's critical-hit ratio by one stage (from a {fr:1⁄16} chance to {fr:1⁄8} for regular moves)."
+	},
+	{
+		"Name": "Swarm",
+		"Description": "Swarm increases the power of Bug-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch)."
+	},
+	{
+		"Name": "Sweet Veil",
+		"Description": "Sweet Veil prevents this Pokémon and its allies from falling asleep, for example from moves like Hypnosis."
+	},
+	{
+		"Name": "Swift Swim",
+		"Description": "Swift Swim doubles the ability-bearer's Speed during rain."
+	},
+	{
+		"Name": "Symbiosis",
+		"Description": "The Pokémon can pass an item to an ally."
+	},
+	{
+		"Name": "Synchronize",
+		"Description": "If the opponent causes a burn, paralysis, or poisoning of a Pokémon with Synchronize, the opponent receives the status condition too. Self-inflicted status conditions (for example through the use of an item) are not passed on."
+	},
+	{
+		"Name": "Tangled Feet",
+		"Description": "Raises evasion if the Pokémon is confused."
+	},
+	{
+		"Name": "Technician",
+		"Description": "Technician increases the power of moves - that are usually base power 60 or below - by 50%."
+	},
+	{
+		"Name": "Telepathy",
+		"Description": "Pokémon with the Telepathy ability will not take damage from teammates in double and triple battles."
+	},
+	{
+		"Name": "Teravolt",
+		"Description": "Teravolt prevents a target's ability from affecting moves that the Teravolt Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves."
+	},
+	{
+		"Name": "Thick Fat",
+		"Description": "Thick Fat reduces the damage taken from Fire-type and Ice-type moves by 50%."
+	},
+	{
+		"Name": "Tinted Lens",
+		"Description": "Powers up “not very effective” moves."
+	},
+	{
+		"Name": "Torrent",
+		"Description": "Torrent increases the power of Water-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch)."
+	},
+	{
+		"Name": "Tough Claws",
+		"Description": "Tough Claws increases the power of moves that make contact."
+	},
+	{
+		"Name": "Toxic Boost",
+		"Description": "Powers up physical attacks when poisoned."
+	},
+	{
+		"Name": "Trace",
+		"Description": "The Pokémon copies a foe's Ability."
+	},
+	{
+		"Name": "Truant",
+		"Description": "Truant causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pokémon is loafing around."
+	},
+	{
+		"Name": "Turboblaze",
+		"Description": "Turboblaze prevents a target's ability from affecting moves that the Turboblaze Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves."
+	},
+	{
+		"Name": "Unaware",
+		"Description": "Ignores any stat changes in the Pokémon."
+	},
+	{
+		"Name": "Unburden",
+		"Description": "Raises Speed if a held item is used."
+	},
+	{
+		"Name": "Unnerve",
+		"Description": "Makes the foe nervous and unable to eat Berries."
+	},
+	{
+		"Name": "Victory Star",
+		"Description": "Boosts the accuracy of its allies and itself."
+	},
+	{
+		"Name": "Vital Spirit",
+		"Description": "Vital Spirit prevents the ability-bearer from falling asleep. This means that it also prevents the use of the move Rest."
+	},
+	{
+		"Name": "Volt Absorb",
+		"Description": "A Pokémon with Volt Absorb heals 1⁄4 of its maximum HP when hit by an Electric-type attack, including Thunder Wave."
+	},
+	{
+		"Name": "Water Absorb",
+		"Description": "A Pokémon with Water Absorb heals 1⁄4 of its maximum HP when hit by a Water-type attack."
+	},
+	{
+		"Name": "Water Veil",
+		"Description": "Prevents the Pokémon from getting a burn."
+	},
+	{
+		"Name": "Weak Armor",
+		"Description": "When a Pokémon with Weak Armor is hit by a physical move, its Defense drops one stage, but its Speed increases by one stage."
+	},
+	{
+		"Name": "White Smoke",
+		"Description": "Prevents other Pokémon from lowering its stats."
+	},
+	{
+		"Name": "Wonder Guard",
+		"Description": "Wonder Guard prevents damage from direct attacks unless they are super-effective. Shedinja is the only Pokémon to have this ability so this means that only Fire, Flying, Rock, Ghost and Dark moves will have an effect."
+	},
+	{
+		"Name": "Wonder Skin",
+		"Description": "Wonder Skin halves the accuracy of all status moves targeted at the ability-bearer."
+	},
+	{
+		"Name": "Zen Mode",
+		"Description": "Zen Mode changes the ability-bearer's form to Zen Mode when their health falls below 50%."
+	}
+	]
+}
